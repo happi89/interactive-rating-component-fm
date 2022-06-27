@@ -3,8 +3,6 @@ import Button from './Button';
 
 const Rating = ({toggleComponent}) => {
 
-  // const {rating, setRating} = useState("");
-
   return (  
     <div className='rating-container'>
       <div className="star-container">
